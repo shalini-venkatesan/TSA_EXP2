@@ -8,7 +8,7 @@ Reg no:212222240096
 
 
 
-Date:23.08.24
+Date:
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
